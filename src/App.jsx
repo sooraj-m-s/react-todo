@@ -133,6 +133,9 @@ const App = () => {
           </li>
         ))}
       </ul>
+      <div class="credits">
+        Developed by <a href="https://www.linkedin.com/in/sooraj-m-s/" target="_blank">Sooraj M S</a>
+      </div>
     </div>
   );
 };
